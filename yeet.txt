@@ -2,5 +2,7 @@ ja
 das
 ist
 schon ne schicke sache
+<<<<<<< HEAD
 also wirklich
 naja neeeeeeeeeeeeeeeeeeeee
+>>>>>>> 91a0d0eddd22a398d0006d2ab3c4bd2cba98c135
